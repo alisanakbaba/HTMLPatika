@@ -1,0 +1,1 @@
+Patika HTML eğitimdeki bölüm sonu Çalışması 2 projesidir.
