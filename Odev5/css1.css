@@ -1,0 +1,44 @@
+a{
+    font-size: 35px;
+    color: #ffc770;
+}    
+
+h1{
+    font-size: 60px;
+    color: #27005d;
+}
+
+.fs-30{
+    font-size: 30px;
+}
+
+ol,ul,li{
+    color: #AEC3AE;
+}
+
+h2{
+    font-size: 45px;
+    color: #A73121;
+}
+
+.fs-40{
+    font-size: 40px;
+}
+
+.fs-50{
+    font-size: 50px;
+}
+
+img{
+    width: 450px;
+    height: 200px;
+}
+
+ul{
+    color: black;
+    font-size: 30px;
+}
+
+li{
+    list-style-position: inside;
+}
